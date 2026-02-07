@@ -14,12 +14,12 @@ Returns the square of an integer (multiply the number by itself).
 # 📌 Calculations Performed in main() Method #
 Use the above methods to evaluate:
 
-(3 × 4 + 5 × 7)²
+# (3 × 4 + 5 × 7)²# 
    
-(4 + 7)² + (8 + 3)²
+# (4 + 7)² + (8 + 3)² #
 
 # 🖥️ Output #
-(3*4 + 5*7)² = 2209 |    
+# (3*4 + 5*7)² = 2209 # 
 
-(4+7)² + (8+3)² = 242
+# (4+7)² + (8+3)² = 242 #
 
